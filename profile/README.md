@@ -34,8 +34,6 @@ We welcome developers, designers, data folks, and competitive gamers who want to
 - Email: [hellostephenwm@gmail.com]
 - Website: [coming soon]
 
----
-
 <!--
 
 **Here are some ideas to get you started:**
