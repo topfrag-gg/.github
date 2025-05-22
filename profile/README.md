@@ -36,10 +36,6 @@ We welcome developers, designers, data folks, and competitive gamers who want to
 
 ---
 
-## 🏁 License
-
-All TopFrag projects are open source under the [MIT License](./LICENSE), unless stated otherwise.
-
 <!--
 
 **Here are some ideas to get you started:**
