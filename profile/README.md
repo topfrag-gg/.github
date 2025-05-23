@@ -1,4 +1,4 @@
-![main image](./readme-image.png)
+![main image](./readme-image.svg)
 
 Welcome to **topfrag-gg** — an open-source initiative building modern tools and platforms for the **Call of Duty competitive esports community**.
 
